@@ -59,7 +59,7 @@ The solution strategy consists of the following steps:
 
 The project includes the following files:
 
-- **Fleet_Transition_Optimization.py**: The main script that defines the LP optimization model and solves the problem.
+- **optimize.py**: The main script that defines the LP optimization model and solves the problem.
 - **Vehicles.csv**: A CSV file containing the vehicle data (cost, range, fuel cost, maintenance, and emissions for each vehicle type).
 - **Yearly_Demand.csv**: A CSV file containing the demand data for small and large trucks, along with the carbon emission limits for each year.
 - **Transition_Constraints.csv**: A CSV file containing the transition constraints, including the maximum percentage of the fleet that can be sold each year and the operable years for each vehicle.
