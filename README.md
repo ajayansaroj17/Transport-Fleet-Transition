@@ -75,7 +75,7 @@ pip install pulp pandas
 Run the optimization script:
 
 ```bash
-python Fleet_Transition_Optimization.py
+python optimize.py
 ```
 
 The results will be saved to **Refined_Fleet_Transition_Plan.csv**.
