@@ -1,0 +1,21 @@
+Year,Vehicle Type,Truck Size,Buy,Sell,Operate
+2024,Diesel,S1,1,0,0.67
+2024,Diesel,S2,0,0,0.0
+2024,Electric,S1,2,0,1.67
+2024,Electric,S2,3,0,3.33
+2025,Diesel,S1,0,0,0.4
+2025,Diesel,S2,0,0,0.0
+2025,Electric,S1,2,0,2.0
+2025,Electric,S2,3,0,3.33
+2026,Diesel,S1,0,0,0.0
+2026,Diesel,S2,0,0,0.0
+2026,Electric,S1,2,0,2.5
+2026,Electric,S2,3,0,3.33
+2027,Diesel,S1,0,0,0.0
+2027,Diesel,S2,0,0,0.0
+2027,Electric,S1,2,0,2.5
+2027,Electric,S2,3,0,3.33
+2028,Diesel,S1,0,0,0.0
+2028,Diesel,S2,0,0,0.0
+2028,Electric,S1,2,0,2.5
+2028,Electric,S2,3,0,3.33

@@ -1,0 +1,5 @@
+Vehicle_Type,Size,Type,Purchase_Cost,Range_per_Year,Fuel_Cost_per_km,Maintenance_Percent,Carbon_Emission_per_km,Resale_Value_Percent
+Diesel,Small,S1,50000,50000,0.4,10,1.0,50
+Diesel,Large,S2,80000,60000,0.4,10,1.0,50
+Electric,Small,S1,70000,40000,0.2,5,0.2,50
+Electric,Large,S2,100000,45000,0.2,5,0.2,50
